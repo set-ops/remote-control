@@ -29,3 +29,6 @@ The Props Remote Control app is focussed on keeping scenario building simple. No
 Our simple-first approach works great for most cases, but we haven't forgotten about storylines that demand more. Since the app is built by props designers, we figured out how to switch between customised GFX screens and our app, directly on the mobile phone.
 
 This powerful feature is good news for all designers in the art department.
+
+## Contact
+If you have any other questions, contact us on [hello@set-ops.com](mailto:hello@set-ops.com)!
