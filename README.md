@@ -2,9 +2,8 @@
 Welcome to our community! This is the perfect place to ask us questions, report issues and share feature ideas with us. In return, we promise to make the Props Remote Control app (even) better :)
 
 ## Install
-Today, the app is released in a controlled environment. Once published, you will be able to purchase and download the Props Remote Control in the Apple and Google app stores.
-
-Watch this space to stay informed about the release dates and early access opportunities! Send us a message if you want to be part of our testing group.
+Download the app in the Apple Appstore, or request us a direct link to the Android app install file.
+Follow our [set-ops.com/getting-started](https://set-ops.com/getting-started/) quick guide to get started
 
 ## Features
 The app integrates seamlessly in the multi-user SetOps environment. All the prop scenarios are synced between all the devices and users of the production.
